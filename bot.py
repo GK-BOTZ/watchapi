@@ -9,9 +9,8 @@ import random
 
 
 DOMAINS = [
-    "https://desolate-everglades-74468-96c52faedeed.herokuapp.com/",
-    "https://ronchon-maison-92327-2f40c4807b1b.herokuapp.com/",
-    "https://feala8-595a8018a79b.herokuapp.com/",
+    "https://powerful-temple-79143-353a141c524c.herokuapp.com/",
+    "https://fast-peak-16120-de47b85e8208.herokuapp.com/",
 ]
 
 
