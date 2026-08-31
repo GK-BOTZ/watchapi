@@ -9,7 +9,7 @@ import random
 
 
 DOMAINS = [
-    "https://powerful-temple-79143-353a141c524c.herokuapp.com/",
+    "https://glacial-sands-42918-360978a6e35e.herokuapp.com/",
     "https://fast-peak-16120-de47b85e8208.herokuapp.com/",
 ]
 
