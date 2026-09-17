@@ -11,6 +11,7 @@ import random
 DOMAINS = [
     "https://calm-wildwood-11126-3f21a217b614.herokuapp.com/",
     "https://fast-peak-16120-de47b85e8208.herokuapp.com/",
+    "https://morning-meadow-37398-3db82380ba72.herokuapp.com/",
 ]
 
 
