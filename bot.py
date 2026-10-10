@@ -9,8 +9,8 @@ import random
 
 
 DOMAINS = [
-    "https://morning-meadow-37398-3db82380ba72.herokuapp.com/",
 "https://sleepy-mesa-09417-6f16c3c38332.herokuapp.com/",
+"https://serene-brushlands-72781-fb40f4a5e926.herokuapp.com/",
 ]
 
 
